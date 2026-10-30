@@ -1,0 +1,501 @@
+merchant_id,merchant_name,category,risk_rating
+MER_5000,"Smith, Palmer and Keller",Electronics,Low
+MER_5001,Rodriguez and Sons,E-Commerce,Low
+MER_5002,Collins-Larson,Electronics,Medium
+MER_5003,Brown Group,Retail,Medium
+MER_5004,Mayer-Crosby,Electronics,Low
+MER_5005,"Huff, Barker and Williams",Gaming,Low
+MER_5006,Schroeder-Brewer,Crypto Exchange,Medium
+MER_5007,"Jones, Thomas and Hunt",Retail,Low
+MER_5008,"Page, Houston and Smith",Electronics,Medium
+MER_5009,May and Sons,Retail,Medium
+MER_5010,Keith-Cunningham,Dining,Medium
+MER_5011,Blackburn PLC,Electronics,Medium
+MER_5012,Kirk Group,Retail,High
+MER_5013,Obrien LLC,E-Commerce,High
+MER_5014,Thomas-Wood,Electronics,Low
+MER_5015,Weiss Inc,Travel,Low
+MER_5016,Fitzgerald-Ibarra,Retail,Medium
+MER_5017,Moody PLC,Electronics,Low
+MER_5018,Gomez-Clark,Gaming,High
+MER_5019,"Mcdowell, Hunter and Santos",E-Commerce,Low
+MER_5020,"Ingram, Jones and Frey",Retail,High
+MER_5021,Fuentes LLC,Retail,Low
+MER_5022,"Phillips, Green and Mueller",E-Commerce,Medium
+MER_5023,Wilson and Sons,E-Commerce,Low
+MER_5024,Baker-Schwartz,Retail,Critical
+MER_5025,"Herrera, Chavez and Castro",Dining,Low
+MER_5026,"Hawkins, Phillips and Ellis",Retail,Low
+MER_5027,Silva-Jackson,Dining,Low
+MER_5028,Moore-Heath,E-Commerce,High
+MER_5029,"Oneill, Gill and Mcconnell",Retail,Low
+MER_5030,Castillo and Sons,Retail,Medium
+MER_5031,Harrison Group,Retail,Medium
+MER_5032,"Villa, Leonard and Matthews",Retail,High
+MER_5033,"Cox, Brown and Perez",Retail,Medium
+MER_5034,Adams-Walker,Wire Transfer,Low
+MER_5035,Day PLC,Travel,Medium
+MER_5036,Evans-Brown,Crypto Exchange,Medium
+MER_5037,Case Ltd,Dining,Low
+MER_5038,"Ward, Petty and Mendoza",Crypto Exchange,Low
+MER_5039,Humphrey PLC,Gaming,Low
+MER_5040,Cantu-Brown,Retail,Low
+MER_5041,Allen Group,Electronics,Low
+MER_5042,Nguyen Inc,Retail,Medium
+MER_5043,Chan Inc,Dining,Critical
+MER_5044,"Gonzalez, Clark and Davis",Travel,Low
+MER_5045,Schwartz-Kirby,Dining,Medium
+MER_5046,"Aguilar, Jennings and Johnston",Electronics,Low
+MER_5047,Vazquez-Montgomery,Electronics,Low
+MER_5048,Bennett-Cortez,Travel,Medium
+MER_5049,Hall-Jones,Travel,Critical
+MER_5050,"Andrews, Williams and Wilson",E-Commerce,Low
+MER_5051,"Smith, Woods and Burton",Retail,Low
+MER_5052,Stone Ltd,Retail,Low
+MER_5053,Martinez-Day,Electronics,Low
+MER_5054,Austin Ltd,Wire Transfer,Medium
+MER_5055,Ramirez PLC,Gaming,Medium
+MER_5056,Johnson-Vega,Dining,Medium
+MER_5057,Gibson Ltd,Electronics,Low
+MER_5058,Edwards-Diaz,Retail,High
+MER_5059,Washington Ltd,Electronics,Low
+MER_5060,Frederick-Foster,Wire Transfer,Medium
+MER_5061,"Simmons, Johnson and Osborne",E-Commerce,Low
+MER_5062,Peck-Zavala,Retail,High
+MER_5063,"Brown, Klein and Miller",Dining,Medium
+MER_5064,"Lee, Gibbs and Patel",Gaming,High
+MER_5065,"Wallace, Weaver and Randolph",Retail,Low
+MER_5066,"Mercado, English and Wright",Electronics,Medium
+MER_5067,Brown Group,Retail,Medium
+MER_5068,Figueroa PLC,Gaming,Medium
+MER_5069,Price-Lawrence,Travel,Low
+MER_5070,Dickson LLC,Gaming,Low
+MER_5071,"Wells, Short and Caldwell",Crypto Exchange,Low
+MER_5072,Johns PLC,Gaming,Low
+MER_5073,Myers LLC,Electronics,High
+MER_5074,"Davis, Estrada and Dennis",Retail,Medium
+MER_5075,Lawrence LLC,Electronics,Low
+MER_5076,"Garrison, Ramirez and Brown",E-Commerce,High
+MER_5077,"Johnson, Francis and Rivera",Retail,Low
+MER_5078,Parker Inc,Electronics,Low
+MER_5079,Le-Cummings,Electronics,Low
+MER_5080,Barker Group,Electronics,High
+MER_5081,"Ortiz, Wilson and Small",Gaming,Medium
+MER_5082,"Mejia, Leblanc and Scott",Electronics,Low
+MER_5083,Sanders Ltd,Retail,Medium
+MER_5084,Williams-Lane,Gaming,Low
+MER_5085,Hamilton Group,Electronics,Low
+MER_5086,"Little, Lewis and James",Retail,Low
+MER_5087,Smith and Sons,Electronics,Low
+MER_5088,"Hodge, Rogers and Mendez",Dining,High
+MER_5089,Anderson-Wilson,Dining,Medium
+MER_5090,Watson-Morris,Retail,Low
+MER_5091,Garcia PLC,E-Commerce,Low
+MER_5092,Russell and Sons,Electronics,Low
+MER_5093,Gentry Inc,Gaming,Low
+MER_5094,"Miller, Schultz and Thomas",Retail,Low
+MER_5095,Smith-Mcmahon,Electronics,Low
+MER_5096,Davis-Hill,E-Commerce,Medium
+MER_5097,Parker Inc,Electronics,Low
+MER_5098,Long-Watts,Dining,Low
+MER_5099,"Wong, Brown and Ruiz",Gaming,High
+MER_5100,Shelton-Larson,Gaming,Low
+MER_5101,"Reid, Carter and Holt",Travel,Low
+MER_5102,Trevino-Soto,Dining,Low
+MER_5103,Reeves PLC,Gaming,Low
+MER_5104,"Ray, Thompson and Coleman",Retail,Low
+MER_5105,"Perez, Campos and Cherry",Gaming,Low
+MER_5106,Cole-Brown,E-Commerce,High
+MER_5107,"Perry, Ortiz and Quinn",Dining,Medium
+MER_5108,Bauer Ltd,Travel,Medium
+MER_5109,Aguilar Ltd,E-Commerce,Low
+MER_5110,Johnson-Evans,Retail,Low
+MER_5111,Reed LLC,Retail,Low
+MER_5112,Nelson Group,Retail,Low
+MER_5113,Brown-George,Retail,Low
+MER_5114,"Boyd, Long and Larson",Retail,Low
+MER_5115,Barron Ltd,Dining,Low
+MER_5116,"Wang, Martinez and Greene",Electronics,Low
+MER_5117,Williams PLC,Electronics,Low
+MER_5118,Bennett-Gillespie,Dining,Low
+MER_5119,Vasquez-Mcdonald,Dining,Low
+MER_5120,Reed LLC,Retail,Low
+MER_5121,Golden-Garrett,Electronics,Low
+MER_5122,Turner LLC,Electronics,Low
+MER_5123,"Martinez, Johnson and Thompson",E-Commerce,Low
+MER_5124,Esparza PLC,Retail,Low
+MER_5125,Torres PLC,Retail,Low
+MER_5126,Chung-Thomas,Dining,Medium
+MER_5127,Woodard LLC,Dining,Low
+MER_5128,"Brown, Rogers and Guzman",Travel,Low
+MER_5129,Brown Group,Electronics,Low
+MER_5130,Taylor-Gibson,Retail,Low
+MER_5131,Jacobs Ltd,E-Commerce,Low
+MER_5132,Soto-Smith,Retail,Critical
+MER_5133,Irwin-Valdez,Retail,Medium
+MER_5134,"Branch, Ellis and Palmer",Retail,Low
+MER_5135,Zamora PLC,Gaming,Medium
+MER_5136,"Dunlap, Smith and Hart",Retail,Low
+MER_5137,Hebert-Schroeder,Dining,Low
+MER_5138,Moreno PLC,E-Commerce,Medium
+MER_5139,Romero-Jensen,Travel,Low
+MER_5140,"Oliver, Miller and Faulkner",Electronics,Low
+MER_5141,Hernandez-Pugh,Retail,Medium
+MER_5142,Costa-Hansen,Gaming,Low
+MER_5143,"Rodriguez, Stafford and Davis",Travel,Critical
+MER_5144,Carlson-Obrien,Retail,Medium
+MER_5145,"Porter, Proctor and Johnson",Electronics,Medium
+MER_5146,Clark PLC,Retail,Low
+MER_5147,Foley-Davenport,E-Commerce,Low
+MER_5148,Walker-Clark,Dining,Medium
+MER_5149,Glover-Neal,Dining,Critical
+MER_5150,Russell PLC,E-Commerce,Low
+MER_5151,"Blanchard, Wagner and Allen",E-Commerce,Critical
+MER_5152,"Bishop, Lynch and Shelton",Electronics,Low
+MER_5153,"Wilson, Wood and Morris",Crypto Exchange,Low
+MER_5154,"Mendez, Patrick and Wilson",Travel,Low
+MER_5155,"Smith, Hansen and Ortiz",Dining,Low
+MER_5156,"Hutchinson, Ramsey and Gardner",Electronics,Medium
+MER_5157,"Dickson, Pena and Branch",E-Commerce,Low
+MER_5158,Baldwin and Sons,Retail,High
+MER_5159,"Rodriguez, Brandt and Garcia",Travel,Low
+MER_5160,Arnold LLC,Travel,Low
+MER_5161,Rodriguez Inc,Wire Transfer,Medium
+MER_5162,Cabrera-Campbell,Retail,Low
+MER_5163,"Sexton, Tate and Harris",Crypto Exchange,Medium
+MER_5164,Salazar-Coleman,Gaming,Low
+MER_5165,"Brown, Hobbs and Stevens",Retail,Low
+MER_5166,Edwards-Smith,Gaming,Low
+MER_5167,Hutchinson-Cross,Electronics,High
+MER_5168,Hatfield-Tran,Retail,Low
+MER_5169,"Holmes, Herrera and Gonzalez",Electronics,Medium
+MER_5170,Wallace Group,E-Commerce,Medium
+MER_5171,Sullivan PLC,E-Commerce,Low
+MER_5172,"King, Dean and Zamora",Electronics,Medium
+MER_5173,Gregory-Wood,Electronics,Low
+MER_5174,Greene-Fischer,Travel,Low
+MER_5175,Williamson-Butler,E-Commerce,Low
+MER_5176,Foster Ltd,Travel,Low
+MER_5177,Fletcher PLC,Crypto Exchange,Low
+MER_5178,Castro Inc,Retail,Low
+MER_5179,Wilson-Williamson,Travel,Low
+MER_5180,Peters-Chambers,Retail,Medium
+MER_5181,Williams and Sons,Dining,Low
+MER_5182,Williams-Huber,Electronics,Medium
+MER_5183,Cruz-Williams,Electronics,Low
+MER_5184,Serrano LLC,Travel,Medium
+MER_5185,Brown-Peters,Wire Transfer,Low
+MER_5186,Gregory-Strickland,Retail,Low
+MER_5187,Smith Group,Travel,Low
+MER_5188,"Santos, Meza and Arroyo",Dining,Low
+MER_5189,Waters Group,E-Commerce,Low
+MER_5190,Reynolds and Sons,Retail,Medium
+MER_5191,Dominguez Inc,Electronics,High
+MER_5192,"Wilson, Johnson and Roberts",Electronics,Medium
+MER_5193,Conley-Ray,E-Commerce,Low
+MER_5194,Bates-Wright,Retail,Low
+MER_5195,Martin Group,Gaming,High
+MER_5196,Johnson PLC,Retail,Low
+MER_5197,Bennett LLC,Retail,High
+MER_5198,"Wilson, Smith and Morgan",Retail,Low
+MER_5199,Ingram and Sons,E-Commerce,Critical
+MER_5200,Holland-Flynn,Retail,High
+MER_5201,Maynard-Thompson,E-Commerce,Medium
+MER_5202,Gates LLC,Retail,Low
+MER_5203,"Dawson, Maxwell and Strong",E-Commerce,Low
+MER_5204,Graves Group,Dining,High
+MER_5205,Orr PLC,Retail,High
+MER_5206,Lloyd-Sandoval,Electronics,Low
+MER_5207,Lee-Fox,Travel,Low
+MER_5208,Thomas Inc,Gaming,Medium
+MER_5209,"Rivera, James and Zuniga",Gaming,Low
+MER_5210,"Melton, Cruz and Young",Gaming,Medium
+MER_5211,Ortiz Inc,Dining,Medium
+MER_5212,Cooke LLC,Dining,High
+MER_5213,Thomas PLC,Travel,Low
+MER_5214,"Luna, Herman and Cooper",E-Commerce,Low
+MER_5215,Casey-Thompson,E-Commerce,Low
+MER_5216,Palmer-Griffin,Retail,High
+MER_5217,"Lloyd, Williams and Herrera",Retail,Low
+MER_5218,Dominguez-Clark,Gaming,Low
+MER_5219,Mueller-Hogan,Electronics,Low
+MER_5220,"Underwood, Harper and Thomas",Travel,Low
+MER_5221,Torres-Allen,Travel,Medium
+MER_5222,"Bruce, Chaney and Thompson",Dining,Medium
+MER_5223,Thompson Inc,Electronics,Medium
+MER_5224,Pennington-Hall,Retail,Low
+MER_5225,"Morales, Cook and Aguirre",E-Commerce,High
+MER_5226,"Ho, Brown and Jenkins",Dining,Low
+MER_5227,Jones-Cohen,Gaming,Medium
+MER_5228,Johnson-Martin,Dining,Low
+MER_5229,Atkins Ltd,Retail,Low
+MER_5230,Jackson Inc,Crypto Exchange,Low
+MER_5231,Kelly LLC,Retail,Low
+MER_5232,Saunders-Young,Retail,Medium
+MER_5233,Burnett-Robertson,Travel,Low
+MER_5234,Hunter-Mccullough,Retail,Low
+MER_5235,Gill Group,Electronics,High
+MER_5236,"Dorsey, Smith and Anderson",Dining,Low
+MER_5237,Irwin-Hart,Retail,Low
+MER_5238,Brooks Ltd,Retail,Low
+MER_5239,Mccarthy-Hoffman,Dining,Medium
+MER_5240,Lewis Ltd,Retail,Low
+MER_5241,White-Bryan,Travel,Critical
+MER_5242,Cobb-Stewart,Crypto Exchange,Low
+MER_5243,Johnson-Munoz,Wire Transfer,Low
+MER_5244,Huffman Inc,Wire Transfer,Low
+MER_5245,Powell-Smith,Dining,Medium
+MER_5246,"Herrera, Knight and Sullivan",Retail,Low
+MER_5247,Johnson LLC,Dining,Medium
+MER_5248,Daniel-Tucker,Retail,Low
+MER_5249,"Gutierrez, Graves and Cervantes",Retail,Low
+MER_5250,"Li, Armstrong and Baker",Electronics,High
+MER_5251,Smith-Brown,Dining,Medium
+MER_5252,Briggs Group,Retail,Low
+MER_5253,"Garcia, Morrison and Chase",Retail,Medium
+MER_5254,"Wood, Lara and Pacheco",Dining,Medium
+MER_5255,"Dominguez, Jackson and Stewart",E-Commerce,Low
+MER_5256,"Guzman, Martinez and Stokes",Electronics,Low
+MER_5257,Smith-Weiss,Gaming,Low
+MER_5258,Ramirez Inc,Wire Transfer,Low
+MER_5259,Stone Ltd,Dining,Medium
+MER_5260,Nguyen Inc,Electronics,Low
+MER_5261,"Elliott, Thompson and Frederick",Travel,Low
+MER_5262,"Lee, Ortiz and Jackson",Retail,Low
+MER_5263,Moore-Ball,Gaming,Critical
+MER_5264,Spencer-Gomez,Travel,Medium
+MER_5265,Moran-Vargas,Travel,Low
+MER_5266,Lopez-Clark,Electronics,Low
+MER_5267,"Manning, Burnett and Carey",Retail,Low
+MER_5268,"Smith, Moore and Sutton",Wire Transfer,Medium
+MER_5269,Franklin Ltd,Retail,Low
+MER_5270,David-Larson,Crypto Exchange,Critical
+MER_5271,Sutton-Rowe,Dining,Low
+MER_5272,Weaver Group,Crypto Exchange,Low
+MER_5273,Armstrong and Sons,Gaming,Medium
+MER_5274,"Murphy, Johnson and Williams",Crypto Exchange,Medium
+MER_5275,Brown Ltd,Wire Transfer,Low
+MER_5276,Davies-Robinson,E-Commerce,Medium
+MER_5277,Wilson-Sloan,Electronics,Low
+MER_5278,Robbins Inc,Dining,Low
+MER_5279,Logan and Sons,Retail,High
+MER_5280,Harmon Inc,E-Commerce,High
+MER_5281,Taylor and Sons,E-Commerce,Medium
+MER_5282,Harper PLC,Electronics,Low
+MER_5283,Robertson-Vargas,Dining,Medium
+MER_5284,Butler-Sullivan,Electronics,Low
+MER_5285,Levy LLC,Travel,Low
+MER_5286,"Hunt, Booth and Cohen",E-Commerce,Medium
+MER_5287,"Ferrell, Burnett and White",Electronics,Low
+MER_5288,Greene LLC,Electronics,Critical
+MER_5289,Hale Ltd,Dining,Low
+MER_5290,Johnson-Stewart,E-Commerce,Low
+MER_5291,"Brown, Blake and Gutierrez",Dining,Medium
+MER_5292,"Turner, Quinn and Scott",Retail,Medium
+MER_5293,"Shepherd, Mullins and Green",Crypto Exchange,Low
+MER_5294,Wong Ltd,E-Commerce,Low
+MER_5295,Smith Group,Electronics,Medium
+MER_5296,Gilbert Ltd,E-Commerce,Low
+MER_5297,Bean and Sons,Wire Transfer,Low
+MER_5298,"Shields, Perez and Ortiz",Dining,Medium
+MER_5299,"Davis, Morgan and Chen",Travel,Low
+MER_5300,"Murray, Johnson and Smith",Travel,Critical
+MER_5301,Hill-Patterson,Electronics,Medium
+MER_5302,Perez-Ray,Gaming,Critical
+MER_5303,"Hernandez, Holmes and Johnson",Dining,Low
+MER_5304,Dodson Ltd,Dining,Critical
+MER_5305,Rojas-Jensen,Travel,Low
+MER_5306,Duncan-Horton,Dining,Low
+MER_5307,"Morgan, Snyder and May",Crypto Exchange,Low
+MER_5308,Hunter-Cook,Travel,Low
+MER_5309,Rodriguez-Sanchez,Gaming,Low
+MER_5310,"Guzman, Moore and Larsen",E-Commerce,Low
+MER_5311,Johnson-Smith,Gaming,Low
+MER_5312,"Craig, Pittman and Rubio",Travel,Low
+MER_5313,Garcia and Sons,Gaming,Medium
+MER_5314,"Pena, Fleming and Smith",Retail,Low
+MER_5315,Calhoun-Zimmerman,Electronics,Medium
+MER_5316,"Webb, Zimmerman and Mitchell",Retail,Low
+MER_5317,"Howe, Burton and Gallagher",Wire Transfer,High
+MER_5318,Mendez-Webster,Retail,Low
+MER_5319,"Bradley, Harris and Welch",Electronics,Critical
+MER_5320,Suarez PLC,Retail,Low
+MER_5321,Olson Ltd,E-Commerce,Critical
+MER_5322,"Poole, Dixon and Parsons",Crypto Exchange,Low
+MER_5323,"Smith, Garcia and Taylor",Wire Transfer,Medium
+MER_5324,Johnson-Richards,Dining,Medium
+MER_5325,Campbell-Morris,Dining,Low
+MER_5326,Jones-Jones,Wire Transfer,Low
+MER_5327,Wilson-Lopez,Retail,Medium
+MER_5328,"Johnson, Wilson and Price",Dining,Low
+MER_5329,Poole PLC,Travel,Low
+MER_5330,Lewis-Barajas,Dining,Medium
+MER_5331,Perry Inc,E-Commerce,Low
+MER_5332,Krause-Savage,E-Commerce,Medium
+MER_5333,Castillo-Smith,Retail,Low
+MER_5334,Mann-Howell,Gaming,Low
+MER_5335,Wells Inc,Gaming,Low
+MER_5336,Olson-Mckay,Retail,Medium
+MER_5337,Sanders Ltd,Retail,Critical
+MER_5338,Marquez-Humphrey,Gaming,Low
+MER_5339,Ferguson-Dillon,E-Commerce,Low
+MER_5340,Floyd Ltd,Electronics,Low
+MER_5341,Shaw LLC,Electronics,Medium
+MER_5342,Ortiz Ltd,Crypto Exchange,Low
+MER_5343,"Arnold, Coleman and Hall",Dining,Low
+MER_5344,"Woodward, Kelly and Martinez",E-Commerce,Low
+MER_5345,Perry-Gray,Electronics,Low
+MER_5346,Fernandez-Bishop,Retail,Low
+MER_5347,Morris Ltd,Crypto Exchange,Low
+MER_5348,Nielsen-Martinez,E-Commerce,Medium
+MER_5349,Henderson Ltd,Gaming,High
+MER_5350,Carlson-Davis,Electronics,Medium
+MER_5351,Clark-Smith,Retail,Low
+MER_5352,"Krause, Stewart and Saunders",Retail,Low
+MER_5353,Coleman PLC,E-Commerce,Low
+MER_5354,"Jenkins, Raymond and Kramer",Travel,Medium
+MER_5355,"Bautista, Griffin and Black",Travel,Low
+MER_5356,"Hartman, Cabrera and Williams",Gaming,High
+MER_5357,Grant-Gordon,E-Commerce,Low
+MER_5358,Ross Inc,Retail,Medium
+MER_5359,Wilson-Sanchez,Wire Transfer,Medium
+MER_5360,"Grimes, Day and Nelson",Travel,Low
+MER_5361,Roberts PLC,Wire Transfer,Medium
+MER_5362,Williams-Arnold,E-Commerce,High
+MER_5363,Davis-Allen,Travel,High
+MER_5364,Jones LLC,Retail,Medium
+MER_5365,Goodwin-Huffman,Retail,Low
+MER_5366,Jones and Sons,Dining,High
+MER_5367,Galvan Ltd,Retail,Medium
+MER_5368,Romero-Salazar,Travel,Low
+MER_5369,Gordon LLC,Retail,Low
+MER_5370,Bennett-Sutton,Gaming,Low
+MER_5371,"Oliver, Knapp and Mccall",Retail,Low
+MER_5372,Wilson and Sons,E-Commerce,Medium
+MER_5373,Hernandez and Sons,E-Commerce,Low
+MER_5374,Hudson Ltd,Gaming,Low
+MER_5375,Banks LLC,Electronics,Low
+MER_5376,Wright Group,Electronics,Low
+MER_5377,Hall and Sons,Dining,Low
+MER_5378,"Green, Solomon and Tucker",Electronics,Low
+MER_5379,"Owens, Jones and Hogan",Electronics,Low
+MER_5380,"Price, Banks and Bryan",Electronics,Medium
+MER_5381,"Guerra, Warner and Hall",Dining,Low
+MER_5382,Sloan-Morris,Travel,Low
+MER_5383,Jarvis-James,Travel,Low
+MER_5384,"Cruz, Brown and Padilla",Travel,Low
+MER_5385,Ortiz-Washington,Electronics,Low
+MER_5386,Nelson LLC,Gaming,Low
+MER_5387,"Rojas, May and Montoya",Electronics,Low
+MER_5388,Baker LLC,Gaming,Low
+MER_5389,Watkins-Peterson,Wire Transfer,Low
+MER_5390,"Murphy, Burns and Mills",Retail,Medium
+MER_5391,Johnson PLC,Electronics,Low
+MER_5392,Hernandez Ltd,Electronics,High
+MER_5393,"Ruiz, Allen and Brown",Gaming,Medium
+MER_5394,Waller Inc,Gaming,Medium
+MER_5395,Gonzales PLC,Wire Transfer,Low
+MER_5396,"Welch, Fuentes and Davis",Travel,Medium
+MER_5397,Mendez PLC,E-Commerce,Low
+MER_5398,Porter and Sons,E-Commerce,Low
+MER_5399,"Fitzgerald, Hall and Ferguson",Dining,Low
+MER_5400,"Bowen, Bennett and Hoffman",Dining,High
+MER_5401,Flores-Jones,Electronics,Low
+MER_5402,"Jones, Brown and Bryan",Electronics,High
+MER_5403,Davis-Valdez,E-Commerce,Low
+MER_5404,Robertson and Sons,Travel,High
+MER_5405,Perry PLC,Retail,High
+MER_5406,Gray LLC,Travel,High
+MER_5407,"Kelley, Velasquez and Ball",Electronics,Low
+MER_5408,"Buckley, Hughes and Williams",Retail,High
+MER_5409,Bird Ltd,E-Commerce,Critical
+MER_5410,Payne-Thomas,Gaming,Low
+MER_5411,Thomas-Cardenas,Wire Transfer,Low
+MER_5412,Maldonado-Jones,Retail,Medium
+MER_5413,Pham PLC,Travel,Low
+MER_5414,Davis-Shaw,Retail,Medium
+MER_5415,"Mitchell, Johnson and Evans",Travel,Low
+MER_5416,"Parrish, Owens and Jones",Crypto Exchange,Low
+MER_5417,"Marsh, Larson and Miller",E-Commerce,Low
+MER_5418,Ferguson-Roach,Gaming,Low
+MER_5419,Wu-Barnes,Electronics,Low
+MER_5420,King-Padilla,Gaming,Medium
+MER_5421,"Smith, Sandoval and Mccoy",Retail,Low
+MER_5422,Sellers Group,Electronics,Medium
+MER_5423,Johnson Inc,Retail,Medium
+MER_5424,Gutierrez Inc,E-Commerce,Low
+MER_5425,Lopez Inc,Dining,Low
+MER_5426,Harris-Griffin,Gaming,Low
+MER_5427,"Garcia, Sullivan and Brewer",Electronics,Low
+MER_5428,Phelps LLC,Retail,Low
+MER_5429,"Kelley, Kelly and Stephens",Dining,Low
+MER_5430,Shepherd Ltd,Wire Transfer,Critical
+MER_5431,Anderson PLC,Wire Transfer,Low
+MER_5432,"Stewart, Miranda and Cabrera",Travel,Low
+MER_5433,Green Inc,Travel,Critical
+MER_5434,Little PLC,Electronics,High
+MER_5435,White-Stephenson,E-Commerce,High
+MER_5436,Mcintyre-Ross,E-Commerce,Medium
+MER_5437,Nguyen Inc,Gaming,Low
+MER_5438,Allen-Williams,Dining,High
+MER_5439,"Baker, Walker and Weaver",E-Commerce,High
+MER_5440,Flores-Davis,Travel,Low
+MER_5441,Jackson PLC,Wire Transfer,Low
+MER_5442,Phillips LLC,Travel,Low
+MER_5443,Graves-Castillo,Travel,Low
+MER_5444,"Miller, Rodriguez and Robinson",Retail,Low
+MER_5445,"Morris, May and Romero",Electronics,Medium
+MER_5446,Good-Summers,Wire Transfer,Low
+MER_5447,"Garcia, Hernandez and Turner",Electronics,Low
+MER_5448,Thomas Inc,Retail,Low
+MER_5449,"Rosario, Hernandez and Jackson",Travel,Medium
+MER_5450,Miller-Petersen,Electronics,Low
+MER_5451,"Tucker, Cameron and Hess",Electronics,Low
+MER_5452,Clark Group,Electronics,Medium
+MER_5453,Reed-Douglas,Retail,Low
+MER_5454,Wise-Jones,Dining,Low
+MER_5455,Cooper-Mccarthy,E-Commerce,Low
+MER_5456,Wolfe and Sons,Electronics,Medium
+MER_5457,Mora Group,Dining,Medium
+MER_5458,"Hamilton, Hopkins and Bryant",E-Commerce,Low
+MER_5459,"Johnson, Miller and Jackson",Electronics,Low
+MER_5460,Arnold Ltd,Dining,Medium
+MER_5461,Vazquez-Chavez,Dining,High
+MER_5462,"Garza, Payne and Dawson",Travel,Medium
+MER_5463,"Wright, Bush and Wilson",Electronics,Medium
+MER_5464,"Dixon, Reynolds and Sanchez",Wire Transfer,Low
+MER_5465,Johnson-Taylor,Travel,Medium
+MER_5466,Day-Hartman,E-Commerce,High
+MER_5467,Harmon Group,Electronics,Medium
+MER_5468,Chen Group,Gaming,High
+MER_5469,Winters-Pruitt,Electronics,Low
+MER_5470,"Smith, Dixon and Bishop",Gaming,High
+MER_5471,Pratt Inc,Wire Transfer,Medium
+MER_5472,Porter-White,Crypto Exchange,High
+MER_5473,Smith-Barton,E-Commerce,Low
+MER_5474,"Wright, Wade and Jackson",Electronics,Medium
+MER_5475,"Herrera, Thompson and Tate",Dining,Medium
+MER_5476,Smith-Sanchez,E-Commerce,Low
+MER_5477,Flores-Lee,Retail,Medium
+MER_5478,Gonzalez PLC,Dining,Medium
+MER_5479,Stone-Baker,Retail,Low
+MER_5480,Armstrong Inc,Wire Transfer,Low
+MER_5481,"Nelson, Hill and Reynolds",Electronics,Low
+MER_5482,Irwin Inc,E-Commerce,Low
+MER_5483,Vincent-Lopez,E-Commerce,Low
+MER_5484,Osborn-Porter,Retail,Low
+MER_5485,"Mcdonald, West and Tate",Retail,Low
+MER_5486,Barrera PLC,Electronics,Low
+MER_5487,Petersen Inc,Electronics,Low
+MER_5488,Day Inc,Retail,Medium
+MER_5489,"Carney, Schroeder and Ayala",Retail,Low
+MER_5490,"Farmer, Moore and Garza",Electronics,Medium
+MER_5491,"Johnson, Hill and Rice",Retail,Low
+MER_5492,Miranda-Brewer,E-Commerce,Low
+MER_5493,Franklin and Sons,Wire Transfer,Low
+MER_5494,Gamble Ltd,Dining,Medium
+MER_5495,Cook-Beltran,Retail,Medium
+MER_5496,Beard-Simmons,Retail,High
+MER_5497,Young-Lopez,Electronics,Low
+MER_5498,Jones-Gibson,E-Commerce,Medium
+MER_5499,Moody Group,Travel,Low

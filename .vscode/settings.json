@@ -1,0 +1,5 @@
+{
+    "powerquery.client.additionalSymbolsDirectories": [
+        "d:/Data_Analytics_Projects/fintech-ai-fraud-intelligence/.vscode/excel-pq-symbols"
+    ]
+}
