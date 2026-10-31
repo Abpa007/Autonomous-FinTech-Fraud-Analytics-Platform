@@ -2,7 +2,7 @@ import os
 import psycopg2
 from psycopg2.extensions import ISOLATION_LEVEL_AUTOCOMMIT
 import pandas as pd
-from sqlalchemy import create_engine
+from sqlalchemy import create_engine, text
 from dotenv import load_dotenv
 
 # Load environment variables from .env file
@@ -37,8 +37,9 @@ def execute_sql_schema(engine):
     with open("sql/schema.sql", "r") as f:
         sql_ddl = f.read()
     
-    with engine.connect() as connection:
-        connection.execute(sql_ddl)
+    # Use engine.begin() and wrap SQL in text() for SQLAlchemy 2.0 compatibility
+    with engine.begin() as connection:
+        connection.execute(text(sql_ddl))
     print("✅ Tables and indexes created successfully!")
 
 def load_data(engine):
@@ -59,8 +60,8 @@ def load_data(engine):
 if __name__ == "__main__":
     create_database()
     
-    # SQLAlchemy connection string built from .env variables
-    db_url = f"postgresql://{DB_USER}:{DB_PASS}@{DB_HOST}:{DB_PORT}/{DB_NAME}"
+    # SQLAlchemy connection string explicitly using psycopg2 driver
+    db_url = f"postgresql+psycopg2://{DB_USER}:{DB_PASS}@{DB_HOST}:{DB_PORT}/{DB_NAME}"
     engine = create_engine(db_url)
     
     execute_sql_schema(engine)
